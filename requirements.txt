@@ -10,7 +10,7 @@ docutils==0.14
 ecdsa==0.13
 flake8==3.5.0
 Flask==1.0.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 http-ece==1.0.5
 idna==2.6
 itsdangerous==0.24
